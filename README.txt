@@ -1,0 +1,1 @@
+- Right click on index.html and open it in a live server.
